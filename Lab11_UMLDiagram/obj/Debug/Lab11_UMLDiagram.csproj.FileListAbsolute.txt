@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Lab11_UMLDiagram\Lab11_UMLDiagram\bin\Debug\Lab11_UMLDiagram.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Lab11_UMLDiagram\Lab11_UMLDiagram\bin\Debug\Lab11_UMLDiagram.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Lab11_UMLDiagram\Lab11_UMLDiagram\bin\Debug\Lab11_UMLDiagram.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Lab11_UMLDiagram\Lab11_UMLDiagram\obj\Debug\Lab11_UMLDiagram.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Lab11_UMLDiagram\Lab11_UMLDiagram\obj\Debug\Lab11_UMLDiagram.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Lab11_UMLDiagram\Lab11_UMLDiagram\obj\Debug\Lab11_UMLDiagram.pdb
